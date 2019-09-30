@@ -1,2 +1,2 @@
-# PHP Workshop
- Place for simple PHP projects
+# PHP & Wordpress Workshop
+ Place for simple PHP & Wordpress
